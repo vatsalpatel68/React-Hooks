@@ -1,0 +1,10 @@
+[
+    {
+        name:'vatsal',
+        age:22
+    },
+    {
+        name:'deep',
+        age:23
+    }
+]
